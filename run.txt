@@ -1,0 +1,2 @@
+uvicorn backend.main:app --reload
+Copy-Item -Recurse .\ "C:\Users\shaiksaidabi\Desktop\NLU_Chatbot_Trainer"

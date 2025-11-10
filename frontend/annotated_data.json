@@ -1,0 +1,9 @@
+[
+  {
+    "sentence": "Book a flight from Delhi to Mumbai",
+    "intent": "cancel_booking",
+    "entities": {
+      "location": "delhi"
+    }
+  }
+]
